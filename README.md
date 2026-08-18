@@ -580,7 +580,7 @@ The dashboard displays inventory statistics including total products, categories
 
 The Products page allows the administrator to view, search, add, edit, and delete products.
 
-![Products](./inventory_pro_outputs/products.png)
+![Products](./inventory_pro_outputs/products-new.png)
 
 ### Category Management
 
