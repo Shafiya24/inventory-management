@@ -192,7 +192,7 @@ inventory-management/
 
 │
 
-├── screenshots/
+├──inventory_pro_outputs /
 
 │   ├── login.png
 
@@ -560,141 +560,59 @@ Stock
 
 ```
 
+## Results / Output
 
+The application successfully provides the following results:
 
-\## Screenshots
+### Login
 
+The login page allows authorized users to sign in to the Inventory Management System.
 
+![Login](./inventory_pro_outputs/login.png)
 
-\### Login Page
+### Admin Dashboard
 
+The dashboard displays inventory statistics including total products, categories, suppliers, purchases, sales, stock quantity, stock value, and low-stock information.
 
+![Dashboard](./inventory_pro_outputs/dashboard.png)
 
-The login page provides username and password fields for authentication.
+### Product Management
 
+The Products page allows the administrator to view, search, add, edit, and delete products.
 
+![Products](./inventory_pro_outputs/products.png)
 
-!\[Login Page](inventory_pro_outputs/login.png)
-
-
-
-\### Inventory Dashboard
-
-
-
-The dashboard displays the overall inventory statistics.
-
-
-
-!\[Inventory Dashboard](inventory_pro_outputs/dashboard.png)
-
-
-
-\### Products
-
-
-
-The Products page allows the administrator to view and manage products.
-
-
-
-!\[Products](inventory_pro_outputs/products.png)
-
-
-
-\### Categories
-
-
+### Category Management
 
 The Categories page allows the administrator to manage product categories.
 
+![Categories](./inventory_pro_outputs/categories.png)
+
+### Supplier Management
+
+The Suppliers page displays supplier information and allows the administrator to manage suppliers.
+
+![Suppliers](./inventory_pro_outputs/suppliers.png)
+
+### Purchase Management
+
+The Purchases page allows the administrator to record and view purchases from suppliers.
+
+![Purchases](./inventory_pro_outputs/purchases.png)
+
+### Sales Management
+
+The Sales page allows the administrator to record and view product sales.
+
+![Sales](./inventory_pro_outputs/sales.png)
+
+### Stock Management
+
+The Stock page displays the current inventory stock and available quantity for each product.
+
+![Stock](./inventory_pro_outputs/stock.png)
 
 
-!\[Categories](inventory_pro_outputs/categories.png)
-
-
-
-\### Suppliers
-
-
-
-The Suppliers page displays and manages supplier information.
-
-
-
-!\[Suppliers](inventory_pro_outputs/suppliers.png)
-
-
-
-\### Purchases
-
-
-
-The Purchases page displays purchase records from suppliers.
-
-
-
-!\[Purchases](inventory_pro_outputs/purchases.png)
-
-
-
-\### Sales
-
-
-
-The Sales page displays product sales records.
-
-
-
-!\[Sales](inventory_pro_outputs/sales.png)
-
-
-
-\### Stock
-
-
-
-The Stock page displays the current inventory stock and quantity.
-
-
-
-!\[Stock](inventory_pro_outputs/stock.png)
-
-
-
-\## Results / Output
-
-
-
-The application successfully provides:
-
-
-
-\- User login
-
-\- Admin access
-
-\- Inventory dashboard
-
-\- Product management
-
-\- Category management
-
-\- Supplier management
-
-\- Purchase management
-
-\- Sales management
-
-\- Stock monitoring
-
-\- Inventory statistics
-
-\- Low-stock monitoring
-
-\- Purchase value tracking
-
-\- Sales value tracking
 
 
 
