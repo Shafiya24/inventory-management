@@ -604,7 +604,7 @@ The Purchases page allows the administrator to record and view purchases from su
 
 The Sales page allows the administrator to record and view product sales.
 
-![Sales](./inventory_pro_outputs/sales.png)
+![Sales](./inventory_pro_outputs/sale.png)
 
 ### Stock Management
 
