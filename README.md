@@ -530,31 +530,31 @@ After successful login, the user is redirected to the Inventory Dashboard.
 
 Login
 
-&#x20; ↓
+ ↓
 
 Dashboard
 
-&#x20; ↓
+ ↓
 
 Products
 
-&#x20; ↓
+ ↓
 
 Categories
 
-&#x20; ↓
+ ↓
 
 Suppliers
 
-&#x20; ↓
+ ↓
 
 Purchases
 
-&#x20; ↓
+ ↓
 
 Sales
 
-&#x20; ↓
+ ↓
 
 Stock
 
@@ -574,7 +574,7 @@ The login page provides username and password fields for authentication.
 
 
 
-!\[Login Page](screenshots/login.png)
+!\[Login Page](inventory_pro_outputs/login.png)
 
 
 
@@ -586,7 +586,7 @@ The dashboard displays the overall inventory statistics.
 
 
 
-!\[Inventory Dashboard](screenshots/dashboard.png)
+!\[Inventory Dashboard](inventory_pro_outputs/dashboard.png)
 
 
 
@@ -598,7 +598,7 @@ The Products page allows the administrator to view and manage products.
 
 
 
-!\[Products](screenshots/products.png)
+!\[Products](inventory_pro_outputs/products.png)
 
 
 
@@ -610,7 +610,7 @@ The Categories page allows the administrator to manage product categories.
 
 
 
-!\[Categories](screenshots/categories.png)
+!\[Categories](inventory_pro_outputs/categories.png)
 
 
 
@@ -622,7 +622,7 @@ The Suppliers page displays and manages supplier information.
 
 
 
-!\[Suppliers](screenshots/suppliers.png)
+!\[Suppliers](inventory_pro_outputs/suppliers.png)
 
 
 
@@ -634,7 +634,7 @@ The Purchases page displays purchase records from suppliers.
 
 
 
-!\[Purchases](screenshots/purchases.png)
+!\[Purchases](inventory_pro_outputs/purchases.png)
 
 
 
@@ -646,7 +646,7 @@ The Sales page displays product sales records.
 
 
 
-!\[Sales](screenshots/sales.png)
+!\[Sales](inventory_pro_outputs/sales.png)
 
 
 
@@ -658,7 +658,7 @@ The Stock page displays the current inventory stock and quantity.
 
 
 
-!\[Stock](screenshots/stock.png)
+!\[Stock](inventory_pro_outputs/stock.png)
 
 
 
